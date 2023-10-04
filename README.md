@@ -15,3 +15,9 @@
 - [x] ResNet50 Feature Extraction Network
 - [x] Unsupervised Loss Function
 - [x] Train
+
+### namwoam-log
+
+#### 2023-10-04
+
+1. configure conda environment
